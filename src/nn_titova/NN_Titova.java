@@ -17,7 +17,7 @@ import org.jblas.DoubleMatrix;
 
 /**
  *
- * @author boyko_mihail
+ * @author titova_ekaterina
  */
 public class NN_Titova {
 
@@ -25,8 +25,8 @@ public class NN_Titova {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        double[][] labels = MnistReader.readLabels("/home/boyko_mihail/NetBeansProjects/course_Ml/Boyko/ML_HomeWork_NeuralNetwork/Data/train-labels.idx1-ubyte");
-        double[][] images = MnistReader.readImages("/home/boyko_mihail/NetBeansProjects/course_Ml/Boyko/ML_HomeWork_NeuralNetwork/Data/train-images.idx3-ubyte");
+        double[][] labels = MnistReader.readLabels("/home/titova_ekaterina/ML_NN/Data/train-labels.idx1-ubyte");
+        double[][] images = MnistReader.readImages("/home/titova_ekaterina/ML_NN/Data/train-images.idx3-ubyte");
 
         int total_size = 60000;
         int test_size = 10000;

@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  *
- * @author boyko_mihail
+ * @author titova_ekaterina
  */
 public class MnistReader {
 

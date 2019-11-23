@@ -13,7 +13,7 @@ import java.util.Random;
 
 /**
  *
- * @author boyko_mihail
+ * @author titova_ekaterina
  */
 public class DenseLayer implements Layer {
 

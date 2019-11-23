@@ -16,7 +16,7 @@ import org.jblas.DoubleMatrix;
 
 /**
  *
- * @author boyko_mihail
+ * @author titova_ekaterina
  */
 public class Network {
 

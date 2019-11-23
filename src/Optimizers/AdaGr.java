@@ -10,7 +10,7 @@ import org.jblas.MatrixFunctions;
 
 /**
  *
- * @author boyko_mihail
+ * @author titova_ekaterina
  */
 public class AdaGr implements Optimization {
     
